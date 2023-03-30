@@ -338,7 +338,7 @@ main .container .left .profile{
     background: url('images/story-5.jpg') no-repeat center center/cover;   
 }
 .middle .stories .story:nth-child(6){
-    background: url('/images/story-6.jpg') no-repeat center center/cover;   
+    background: url('images/story-6.jpg') no-repeat center center/cover;   
 }
 
 .middle .story .profile-photo{
